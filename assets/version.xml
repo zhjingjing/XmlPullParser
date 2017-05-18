@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<classList>  
+    <class name="一班" >  
+       <student id="1" >  
+           <name>张三</name>  
+           <age>14</age> 
+           <score>68</score> 
+       </student>  
+       <student id="2" >  
+           <name>李四</name>  
+           <age>12</age>  
+            <score>68</score> 
+       </student>  
+    </class>  
+  
+    <class name="二班" >  
+       <student id="3" >  
+           <name>王五</name>  
+           <age>14</age> 
+            <score>68</score>  
+       </student>  
+       <student id="4" >  
+           <name>赵六</name>  
+           <age>14</age> 
+            <score>68</score>  
+       </student>  
+    </class>  
+  
+    <class name="三班" >  
+        <student id="5" >  
+           <name>小明</name>  
+           <age>13</age>  
+            <score>68</score> 
+       </student>  
+        <student id="6" >  
+           <name>小高</name>  
+           <age>21</age>  
+            <score>68</score> 
+       </student>  
+    </class>  
+  
+    <class  name="四班" >  
+       <student id="7" >  
+           <name>小花</name>  
+           <age>13</age>  
+            <score>68</score> 
+       </student>  
+       <student id="8" >  
+           <name>小红</name>  
+           <age>12</age> 
+            <score>68</score>  
+       </student>  
+    </class>  
+  
+</classList>  
